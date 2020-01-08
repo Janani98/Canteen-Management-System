@@ -1,0 +1,1 @@
+writing in a text file in sample1 directory
